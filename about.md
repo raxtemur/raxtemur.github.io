@@ -10,13 +10,6 @@ title: About
 - **Increased State Academic Scholarship**
 - **Recipient of the ISAS in the Fall Semester of 2020.**
 
-### CONTACTS
-
-- Channel: [t.me/homotopyparadise](https://t.me/homotopyparadise) 
-- Email: raxtemur@gmail.com, temurbek.rakhmatullaev@math.msu.ru
-- Telegram: [https://t.me/TemurbRax](https://t.me/TemurbRax)
-- GitHub: [https://github.com/raxtemur](https://github.com/raxtemur)
-
 ### PERSONAL INFORMATION
 
 - **Name**: Rahmatullaev Temurbek Anasbekovich
