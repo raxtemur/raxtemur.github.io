@@ -1,0 +1,17 @@
+title: "Temurbek Rahmatullaev"
+description: ""
+contacts:
+  - label: "Mail"
+    url: "mailto:raxtemur@gmail.com"
+    text: "raxtemur@gmail.com"
+  - label: "GitHub"
+    url: "https://github.com/raxtemur"
+    text: "github.com/raxtemur"
+  - label: "Telegram"
+    url: "https://t.me/homotopyparadise"
+    text: "@homotopyparadise"
+  - label: "Channel"
+    url: "https://t.me/TemurbRax"
+    text: "@TemurbRax"
+theme: jekyll-theme-cayman
+markdown: kramdown
