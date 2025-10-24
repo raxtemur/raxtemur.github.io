@@ -57,3 +57,9 @@
 .main-content {
   padding-top: 12px;
 }
+
+/* Make site title link visually consistent */
+.project-name a {
+  color: #fff;
+  text-decoration: none;
+}

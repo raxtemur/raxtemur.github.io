@@ -7,6 +7,10 @@ title: Scientific Conferences and Schools
  - **International conference and school “Algebraic topology, geometry, combinatorics and data analysis”**, August 11-15, 2025, Pushkin, Saint Petersburg, HSE (ATA Lab)
   - Poster session: "Draft: the formalism of graph products and the Bass-Serre graph of groups"
   - [Conference Link](https://cs.hse.ru/en/ata-lab/atgcda25)
+ - **Conference "Algebraic topology, hyperbolic geometry and computer data analysis"**, November 27–29, 2024, Moscow, Russia
+  - [News Link](https://cs.hse.ru/en/ata-lab/news/981383603.html)
+ - **The international scientific conference "Algebraic topology and applications" and the school "Algebraic topology and applications to data analysis"**, 2024, Moscow, Russia
+  - [News Link](https://cs.hse.ru/en/ata-lab/news/977610735.html)
 - **Algebraic Topology, Hyperbolic Geometry and Computer Data Analysis**, December 05-09, 2023, Tomsk, Russia
   - Report: "2-restricted Lie algebras associated with Coxeter group."
   - [Conference Link](https://nomc.math.tsu.ru/news/obshchie-novosti/nauchnaya-konferentsiya-algebraicheskaya-topologiya-giperbolicheskaya-geometriya-i-kompyuternyy-anal/)

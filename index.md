@@ -21,21 +21,25 @@ title: ""
 
 {% assign section = site.pages | where: "path", "appointments.md" | first %}
 {{ section.content | markdownify }}
+<div class="page-break"></div>
 
 ## Projects
 
 {% assign section = site.pages | where: "path", "projects.md" | first %}
 {{ section.content | markdownify }}
+<div class="page-break"></div>
 
 ## Papers
 
 {% assign section = site.pages | where: "path", "papers.md" | first %}
 {{ section.content | markdownify }}
+<div class="page-break"></div>
 
 ## Scientific Conferences and Schools
 
 {% assign section = site.pages | where: "path", "conferences.md" | first %}
 {{ section.content | markdownify }}
+<div class="page-break"></div>
 
 ## Teaching
 
@@ -46,6 +50,7 @@ title: ""
 
 {% assign section = site.pages | where: "path", "education.md" | first %}
 {{ section.content | markdownify }}
+<div class="page-break"></div>
 
 ## About
 
