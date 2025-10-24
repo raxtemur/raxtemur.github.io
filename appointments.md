@@ -5,7 +5,7 @@ title: Appointments
 
 
 - **AIRI Reaserch Institute**
-  - Junior Researcher; July 2024 - now. 
+  - Junior Research Scientist; July 2024 - now. 
 - **Formika**
   - Research assistant; Feburary 2025 - now.
 - **Ivannikov Institute for System Programming of the Russian Academy of Sciences**
