@@ -14,7 +14,7 @@ contacts:
     url: "https://t.me/TemurbRax"
     text: "@TemurbRax"
   - label: "LinkedIn"
-    url: "https://www.linkedin.com/in/temurbek-rahmatullaev-0000000000/"
+    url: "https://www.linkedin.com/in/temurbek-rahmatullaev/"
     text: "Temurbek Rahmatullaev"
 theme: jekyll-theme-cayman
 markdown: kramdown
