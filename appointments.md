@@ -7,7 +7,7 @@ title: Appointments
 - **AIRI Reaserch Institute**
   - Junior Research Scientist; July 2024 - now. 
 - **Formika**
-  - Research assistant; Feburary 2025 - now.
+  - Scientific advisor, LLM/VLM-engineer; Feburary 2025 - now.
 - **Ivannikov Institute for System Programming of the Russian Academy of Sciences**
   - Intern researcher, ML-dev; November 2022 - 2024
 - **International Laboratory of Algebraic Topology and Its Applications**
